@@ -1,0 +1,18 @@
+Column,Missingness_Mechanism,Missing_Percentage
+about,MNAR,71.19454796309662
+affiliated,Complex Type - Correlation Not Applicable,
+company_size,MNAR,7.085094787078908
+employees,Complex Type - Correlation Not Applicable,
+employees_in_linkedin,MAR,70.78800198363014
+formatted_locations,Complex Type - Correlation Not Applicable,
+funding,Complex Type - Correlation Not Applicable,
+investors,Complex Type - Correlation Not Applicable,
+locations,Complex Type - Correlation Not Applicable,
+organization_type,MNAR,78.29319428282442
+similar,Complex Type - Correlation Not Applicable,
+slogan,MNAR,86.25422871648328
+specialties,MNAR,87.4068945877339
+stock_info,Complex Type - Correlation Not Applicable,
+type,MNAR,78.29319428282442
+updates,Complex Type - Correlation Not Applicable,
+website,MNAR,57.16871167150299
